@@ -23,12 +23,6 @@ A responsive and modern stopwatch web app built with HTML, CSS, and JavaScript. 
 
 ---
 
-## 📂 File Structure
-
-<pre> ``` 📁 Stopwatch/ ┣ 📄 index.html ┣ 📄 style.css ┣ 📄 script.js ┣ 📄 start-pause.mp3 ┣ 📄 lap.mp3 ┗ 📄 reset.mp3 ``` </pre>
-
-
----
 
 ## 🙌 Credits
 
